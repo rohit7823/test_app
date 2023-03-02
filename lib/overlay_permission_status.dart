@@ -1,0 +1,4 @@
+enum OverlayPermissionStatus {
+  granted,
+  notGranted;
+}

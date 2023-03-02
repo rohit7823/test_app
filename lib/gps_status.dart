@@ -1,0 +1,4 @@
+enum GpsStatus {
+  enabled,
+  disabled;
+}
